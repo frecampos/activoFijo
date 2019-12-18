@@ -1,0 +1,11 @@
+
+
+-- agregar fotografia por activo (max. 5 fotos - cada foto debe estar asociada por codigo de activo no por denominmacion)  -->OK
+-- boton revisar foto en inventario --> OK
+-- cada auditoria por ubicacion puede ser registrada por distinto examinador en distinto tiempo
+-- cada proceso de audioria debe tener un plazo final (conteo)
+-- generar un resumen por cada ubicacion (lo inventariado, lo no encontrado (faltantes),ubicaciones no auditadas)
+
+-- asociar en una segunda instancia los responsables por cada activo
+-- notificacion de termino de auditoria (conteo)
+-- uso de pañolero y serv. generales
